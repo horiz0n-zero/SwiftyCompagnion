@@ -27,3 +27,21 @@ Le but du projet est de construire une application qui permet de récupérer l
 
 ## Partie bonus
 
+1. Affichage de la coalition
+1. Affichage des skills
+1. Affichage des achievements
+1. Support des images format .svg pour la coalition et les achievements.
+1. Le design
+	1. Support de la couleur dominante de la coalition
+	1. Custom cell : ExpertiseTableViewCell
+	1. Custom cell : ProjectTableViewCell
+	1. Custom cell : ProjectsTableViewCell
+	1. Custom cell : HeadTableViewCell
+	1. Custom cell : SkillTableViewCell
+	1. Custom cell : AchievementTableViewCell
+1. Affichage de l'emplacement de l'utilisateur (ex: e3r4p6)
+1. Niveau et barre de progression
+
+<div align="center">
+	<img src="https://github.com/horiz0n-zero/SwiftyCompagnion/blob/master/readme_resources/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-02-06%20at%2009.25.20.png" witdh="80%" />
+</div>
